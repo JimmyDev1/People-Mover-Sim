@@ -1,0 +1,3 @@
+﻿  JimmyReynoso_Lab2.cpp
+D:\Old Code\Comp Sci\People Mover Sim\People Mover Sim\JimmyReynoso_Lab2.cpp(68,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  People Mover Sim.vcxproj -> D:\Old Code\Comp Sci\People Mover Sim\Debug\People Mover Sim.exe
